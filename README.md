@@ -1,7 +1,7 @@
 🛒 Shop Management System
 <img width="850" height="434" alt="image" src="https://github.com/user-attachments/assets/98727e27-01a7-4b48-bd4d-e50eb636b815" />
 
-A web-based Shop Management System developed using PHP and MySQL, designed to help manage products, customers, orders, and inventory efficiently.
+A web-based Shop Management System developed using PHP and MySQL.
 The application runs on a local server environment using XAMPP and provides an organized interface for shop administration.
 
 🚀 Features
@@ -9,10 +9,9 @@ The application runs on a local server environment using XAMPP and provides an o
 ✅ Product management
 ✅ Inventory tracking
 ✅ Customer management
-✅ Order management system
 ✅ Admin authentication & dashboard
 ✅ Database integration with MySQL
-✅ Responsive and user-friendly interface
+
 
 🛠️ Technologies Used
 🐘 PHP
